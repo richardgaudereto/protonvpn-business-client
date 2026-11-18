@@ -1,0 +1,10 @@
+coverage/
+.next/
+.DS_Store
+.pnpm-store/
+npm-debug.log*
+*.log
+build/
+dist/
+.cache/
+_site/
